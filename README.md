@@ -1,5 +1,4 @@
-https://postimg.cc/r0KRM3qv][img]https://i.postimg.cc/r0KRM3qv/Screenshot-2024-01-29-at-4-38-03-p-m.png[/img]
-
+[![Screenshot-2024-01-29-at-4-38-03-p-m.png](https://i.postimg.cc/rm91C23F/Screenshot-2024-01-29-at-4-38-03-p-m.png)](https://postimg.cc/r0KRM3qv)
 
 ### Hi there 👋
 
