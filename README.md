@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <h1> I'm Luis Serrano T</h1>
+  <h1> I'm Luis Serrano </h1>
 </div>
 
 
@@ -22,8 +22,8 @@ Currently enrolled at Tec de Monterrey Puebla, studying B.S. in Computer Science
 
 <h4 align="left">ME:</h4>
 
-<a href="https://www.instagram.com" target="blank"><img src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" height="40" width="auto" align="center"></a>
-<a href="https://linkedin.com/in/juan-pablo-gutiérrez-garcía-68609023b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis" height="30" width="40" /></a>
+<a href="https://www.instagram.com/luisserran_/" target="blank"><img src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" height="40" width="auto" align="center"></a>
+<a href="https://www.linkedin.com/in/luis-serrano-080a7b2aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis" height="30" width="40" /></a>
 
 
 
