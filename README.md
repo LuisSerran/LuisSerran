@@ -1,7 +1,7 @@
 
 [![Screenshot-2024-01-29-at-4-38-03-p-m.png](https://i.postimg.cc/rm91C23F/Screenshot-2024-01-29-at-4-38-03-p-m.png)](https://postimg.cc/r0KRM3qv)
 
-<!--
+
 <div align="center">
   <h1> I'm Luis Serrano T</h1>
 </div>
@@ -10,12 +10,12 @@
 Currently enrolled at Tec de Monterrey Puebla, studying B.S. in Computer Science (ITC), I am deeply passionate about the world of technology and have a strong desire to make a significant impact in people's lives through my code.  
 
 
-- 🌱 I’m currently learning OOP
-- 
-- 👫 Looking to collaborate on a streaming app
+- 🌱 I’m currently learning Full Stack Development
+
+- 👫 Looking to collaborate on a social network app
 
 - ⚡ Fun fact: I can make 100 push ups!
-- 
+
 - 💻 reach me: luis.zempo15@gmail.com
 
 
@@ -29,7 +29,7 @@ Currently enrolled at Tec de Monterrey Puebla, studying B.S. in Computer Science
 
 <h4 align="left">Tools:</h4>
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="45" alt="apple logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 <img src="https://cdn.freebiesupply.com/logos/large/2x/swift-15-logo-svg-vector.svg" height="45" width="auto" alt="swift logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="c++ logo"  />
@@ -42,7 +42,13 @@ Currently enrolled at Tec de Monterrey Puebla, studying B.S. in Computer Science
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="45" alt="chrome logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="45" alt="apple logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+
+
+ <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
