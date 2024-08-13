@@ -1,7 +1,5 @@
 
 [![Screenshot-2024-01-29-at-4-38-03-p-m.png](https://i.postimg.cc/rm91C23F/Screenshot-2024-01-29-at-4-38-03-p-m.png)](https://postimg.cc/r0KRM3qv)
-
-
 <div align="center">
   <h1> I'm Luis Serrano </h1>
 </div>
