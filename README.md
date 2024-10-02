@@ -20,10 +20,10 @@ Currently enrolled at Tec de Monterrey Puebla, studying B.S. in Computer Science
 
 <h4 align="left">ME:</h4>
 
-<a href="https://www.instagram.com/luisserrn_?igsh=MWIwN2dpcHFkcmh1Ng%3D%3D&utm_source=qr" target="_blank">
-  <img src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" height="40" width="auto" align="center"></a>
 <a href="https://www.linkedin.com/in/luis-serrano0" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis" height="30" width="40" /></a>
+<a href="https://www.instagram.com/luisserrn_?igsh=MWIwN2dpcHFkcmh1Ng%3D%3D&utm_source=qr" target="_blank">
+  <img src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" height="40" width="auto" align="center"></a>
 
 
 
