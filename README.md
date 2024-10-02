@@ -8,11 +8,11 @@
 Currently enrolled at Tec de Monterrey Puebla, studying B.S. in Computer Science (ITC), I am deeply passionate about the world of technology and have a strong desire to make a significant impact in people's lives through my code.  
 
 
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning IoT
 
 - 👫 Looking to collaborate on a social network app
 
-- ⚡ Fun fact: I can make 100 push ups!
+- ⚡ Fun fact: I'm a lifeguard certificated!
 
 - 💻 reach me: luis.zempo15@gmail.com
 
@@ -20,8 +20,8 @@ Currently enrolled at Tec de Monterrey Puebla, studying B.S. in Computer Science
 
 <h4 align="left">ME:</h4>
 
-<a href="https://www.instagram.com/luisserran_/" target="blank"><img src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" height="40" width="auto" align="center"></a>
-<a href="https://www.linkedin.com/in/luis-serrano-080a7b2aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis" height="30" width="40" /></a>
+<a href="[https://www.instagram.com/luisserran_/](https://www.instagram.com/luisserrn_?igsh=MWIwN2dpcHFkcmh1Ng%3D%3D&utm_source=qr)" target="blank"><img src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" height="40" width="auto" align="center"></a>
+<a href="www.linkedin.com/in/luis-serrano0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis" height="30" width="40" /></a>
 
 
 
