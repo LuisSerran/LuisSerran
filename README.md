@@ -1,4 +1,4 @@
-[![Screenshot-2024-08-13-at-12-11-07-p-m.png](https://i.postimg.cc/t4b9cSTP/Screenshot-2024-08-13-at-12-11-07-p-m.png)](https://postimg.cc/gnM9XK3k)<div align="center">
+<!--[![Screenshot-2024-08-13-at-12-11-07-p-m.png](https://i.postimg.cc/t4b9cSTP/Screenshot-2024-08-13-at-12-11-07-p-m.png)](https://postimg.cc/gnM9XK3k)<div align="center">-->
 
   <h1> I'm Luis Serrano </h1>
 </div>
