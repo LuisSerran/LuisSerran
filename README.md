@@ -1,5 +1,4 @@
-[![view]([https://imgur.com/3y8E0Nu](https://blobs-infiniteugc.svc.halowaypoint.com/ugcstorage/map/0e667ed2-15ee-4cac-a76b-f99241ef6978/80e4b326-5a40-4f90-bd5e-6ef94a021083/images/thumbnail.jpg))]<div align="center">
-<!--[![Screenshot-2024-08-13-at-12-11-07-p-m.png](https://i.postimg.cc/t4b9cSTP/Screenshot-2024-08-13-at-12-11-07-p-m.png)](https://postimg.cc/gnM9XK3k)<div align="center"> -->
+[![Screenshot-2024-08-13-at-12-11-07-p-m.png](https://i.postimg.cc/t4b9cSTP/Screenshot-2024-08-13-at-12-11-07-p-m.png)](https://postimg.cc/gnM9XK3k)<div align="center">
 
   <h1> I'm Luis Serrano </h1>
 </div>
